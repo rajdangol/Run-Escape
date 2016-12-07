@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sdloop" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sdloop" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sdloop" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Character.h" />
+		<Unit filename="include/Input.h" />
+		<Unit filename="include/SDLGraphics.h" />
+		<Unit filename="include/Timer.h" />
+		<Unit filename="include/bckgr.h" />
+		<Unit filename="include/gameplay.h" />
+		<Unit filename="include/menu.h" />
+		<Unit filename="include/obstacles.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Character.cpp" />
+		<Unit filename="src/Input.cpp" />
+		<Unit filename="src/SDLGraphics.cpp" />
+		<Unit filename="src/Timer.cpp" />
+		<Unit filename="src/bckgr.cpp" />
+		<Unit filename="src/gameplay.cpp" />
+		<Unit filename="src/menu.cpp" />
+		<Unit filename="src/obstacles.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

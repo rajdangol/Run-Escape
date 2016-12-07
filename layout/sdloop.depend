@@ -1,0 +1,421 @@
+# depslib dependency file v1.0
+1426311314 source:l:\my docs\third sem\c++\project\sdloop-beta\main.cpp
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"gameplay.h"
+	"obstacles.h"
+	"menu.h"
+
+1426302252 l:\my docs\third sem\c++\project\sdloop-beta\include\sdlgraphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+
+1426064152 l:\my docs\third sem\c++\project\sdloop-beta\include\bckgr.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+
+1426144788 l:\my docs\third sem\c++\project\sdloop-beta\include\timer.h
+
+1426346926 l:\my docs\third sem\c++\project\sdloop-beta\include\character.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426400655 l:\my docs\third sem\c++\project\sdloop-beta\include\gameplay.h
+	<ios>
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"obstacles.h"
+	<fstream>
+
+1426342448 l:\my docs\third sem\c++\project\sdloop-beta\include\obstacles.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"time.h"
+
+1426311980 l:\my docs\third sem\c++\project\sdloop-beta\include\menu.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"bckgr.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"gameplay.h"
+	"Timer.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426261590 source:l:\my docs\third sem\c++\project\sdloop-beta\src\bckgr.cpp
+	"bckgr.h"
+
+1426435069 source:l:\my docs\third sem\c++\project\sdloop-beta\src\gameplay.cpp
+	"gameplay.h"
+
+1424785534 source:l:\my docs\third sem\c++\project\sdloop-beta\src\input.cpp
+	"Input.h"
+
+1424151570 l:\my docs\third sem\c++\project\sdloop-beta\include\input.h
+	"SDL/SDL.h"
+
+1426356196 source:l:\my docs\third sem\c++\project\sdloop-beta\src\menu.cpp
+	"menu.h"
+
+1426342518 source:l:\my docs\third sem\c++\project\sdloop-beta\src\obstacles.cpp
+	"obstacles.h"
+
+1426302222 source:l:\my docs\third sem\c++\project\sdloop-beta\src\sdlgraphics.cpp
+	"SDLGraphics.h"
+
+1426090786 source:l:\my docs\third sem\c++\project\sdloop-beta\src\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1426435584 source:l:\my docs\third sem\c++\project\sdloop-beta\src\character.cpp
+	"Character.h"
+
+1426311314 source:c:\users\raj\desktop\sdloop-beta\main.cpp
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"gameplay.h"
+	"obstacles.h"
+	"menu.h"
+
+1426302252 c:\users\raj\desktop\sdloop-beta\include\sdlgraphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+
+1426064152 c:\users\raj\desktop\sdloop-beta\include\bckgr.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+
+1426144788 c:\users\raj\desktop\sdloop-beta\include\timer.h
+
+1426346926 c:\users\raj\desktop\sdloop-beta\include\character.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426400656 c:\users\raj\desktop\sdloop-beta\include\gameplay.h
+	<ios>
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"obstacles.h"
+	<fstream>
+
+1426342448 c:\users\raj\desktop\sdloop-beta\include\obstacles.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"time.h"
+
+1426311980 c:\users\raj\desktop\sdloop-beta\include\menu.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"bckgr.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"gameplay.h"
+	"Timer.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426261590 source:c:\users\raj\desktop\sdloop-beta\src\bckgr.cpp
+	"bckgr.h"
+
+1426480304 source:c:\users\raj\desktop\sdloop-beta\src\character.cpp
+	"Character.h"
+
+1426435070 source:c:\users\raj\desktop\sdloop-beta\src\gameplay.cpp
+	"gameplay.h"
+
+1424785534 source:c:\users\raj\desktop\sdloop-beta\src\input.cpp
+	"Input.h"
+
+1424151570 c:\users\raj\desktop\sdloop-beta\include\input.h
+	"SDL/SDL.h"
+
+1426356196 source:c:\users\raj\desktop\sdloop-beta\src\menu.cpp
+	"menu.h"
+
+1426342518 source:c:\users\raj\desktop\sdloop-beta\src\obstacles.cpp
+	"obstacles.h"
+
+1426302222 source:c:\users\raj\desktop\sdloop-beta\src\sdlgraphics.cpp
+	"SDLGraphics.h"
+
+1426090786 source:c:\users\raj\desktop\sdloop-beta\src\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1426311314 source:c:\users\raj\desktop\project\sdloop-beta\main.cpp
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"gameplay.h"
+	"obstacles.h"
+	"menu.h"
+
+1426302252 c:\users\raj\desktop\project\sdloop-beta\include\sdlgraphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+
+1426064152 c:\users\raj\desktop\project\sdloop-beta\include\bckgr.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+
+1426144788 c:\users\raj\desktop\project\sdloop-beta\include\timer.h
+
+1426346926 c:\users\raj\desktop\project\sdloop-beta\include\character.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426400656 c:\users\raj\desktop\project\sdloop-beta\include\gameplay.h
+	<ios>
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"obstacles.h"
+	<fstream>
+
+1426342448 c:\users\raj\desktop\project\sdloop-beta\include\obstacles.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"time.h"
+
+1426311980 c:\users\raj\desktop\project\sdloop-beta\include\menu.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"bckgr.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"gameplay.h"
+	"Timer.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426261590 source:c:\users\raj\desktop\project\sdloop-beta\src\bckgr.cpp
+	"bckgr.h"
+
+1426480304 source:c:\users\raj\desktop\project\sdloop-beta\src\character.cpp
+	"Character.h"
+
+1426435070 source:c:\users\raj\desktop\project\sdloop-beta\src\gameplay.cpp
+	"gameplay.h"
+
+1424785534 source:c:\users\raj\desktop\project\sdloop-beta\src\input.cpp
+	"Input.h"
+
+1424151570 c:\users\raj\desktop\project\sdloop-beta\include\input.h
+	"SDL/SDL.h"
+
+1426356196 source:c:\users\raj\desktop\project\sdloop-beta\src\menu.cpp
+	"menu.h"
+
+1426342518 source:c:\users\raj\desktop\project\sdloop-beta\src\obstacles.cpp
+	"obstacles.h"
+
+1426302222 source:c:\users\raj\desktop\project\sdloop-beta\src\sdlgraphics.cpp
+	"SDLGraphics.h"
+
+1426090786 source:c:\users\raj\desktop\project\sdloop-beta\src\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1426311314 source:c:\users\raj\desktop\project\sourcecode\main.cpp
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"gameplay.h"
+	"obstacles.h"
+	"menu.h"
+
+1426302252 c:\users\raj\desktop\project\sourcecode\include\sdlgraphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+
+1426064152 c:\users\raj\desktop\project\sourcecode\include\bckgr.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+
+1426144788 c:\users\raj\desktop\project\sourcecode\include\timer.h
+
+1426346926 c:\users\raj\desktop\project\sourcecode\include\character.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426400656 c:\users\raj\desktop\project\sourcecode\include\gameplay.h
+	<ios>
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"obstacles.h"
+	<fstream>
+
+1426342448 c:\users\raj\desktop\project\sourcecode\include\obstacles.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"time.h"
+
+1426311980 c:\users\raj\desktop\project\sourcecode\include\menu.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"bckgr.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"gameplay.h"
+	"Timer.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426261590 source:c:\users\raj\desktop\project\sourcecode\src\bckgr.cpp
+	"bckgr.h"
+
+1426480304 source:c:\users\raj\desktop\project\sourcecode\src\character.cpp
+	"Character.h"
+
+1426435070 source:c:\users\raj\desktop\project\sourcecode\src\gameplay.cpp
+	"gameplay.h"
+
+1424785534 source:c:\users\raj\desktop\project\sourcecode\src\input.cpp
+	"Input.h"
+
+1424151570 c:\users\raj\desktop\project\sourcecode\include\input.h
+	"SDL/SDL.h"
+
+1426356196 source:c:\users\raj\desktop\project\sourcecode\src\menu.cpp
+	"menu.h"
+
+1426342518 source:c:\users\raj\desktop\project\sourcecode\src\obstacles.cpp
+	"obstacles.h"
+
+1426302222 source:c:\users\raj\desktop\project\sourcecode\src\sdlgraphics.cpp
+	"SDLGraphics.h"
+
+1426090786 source:c:\users\raj\desktop\project\sourcecode\src\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1426311314 source:c:\users\raj\desktop\run&escape\sourcecode\main.cpp
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"gameplay.h"
+	"obstacles.h"
+	"menu.h"
+
+1426302252 c:\users\raj\desktop\run&escape\sourcecode\include\sdlgraphics.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+
+1426064152 c:\users\raj\desktop\run&escape\sourcecode\include\bckgr.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+
+1426144788 c:\users\raj\desktop\run&escape\sourcecode\include\timer.h
+
+1426346926 c:\users\raj\desktop\run&escape\sourcecode\include\character.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"SDL/SDL_ttf.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426400656 c:\users\raj\desktop\run&escape\sourcecode\include\gameplay.h
+	<ios>
+	"SDLGraphics.h"
+	"bckgr.h"
+	"Timer.h"
+	"Character.h"
+	"obstacles.h"
+	<fstream>
+
+1426342448 c:\users\raj\desktop\run&escape\sourcecode\include\obstacles.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"time.h"
+
+1426311980 c:\users\raj\desktop\run&escape\sourcecode\include\menu.h
+	"SDL/SDL.h"
+	"SDLGraphics.h"
+	"bckgr.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"gameplay.h"
+	"Timer.h"
+	<iostream>
+	<cstring>
+	<sstream>
+
+1426261590 source:c:\users\raj\desktop\run&escape\sourcecode\src\bckgr.cpp
+	"bckgr.h"
+
+1426480304 source:c:\users\raj\desktop\run&escape\sourcecode\src\character.cpp
+	"Character.h"
+
+1426435070 source:c:\users\raj\desktop\run&escape\sourcecode\src\gameplay.cpp
+	"gameplay.h"
+
+1424785534 source:c:\users\raj\desktop\run&escape\sourcecode\src\input.cpp
+	"Input.h"
+
+1424151570 c:\users\raj\desktop\run&escape\sourcecode\include\input.h
+	"SDL/SDL.h"
+
+1426356196 source:c:\users\raj\desktop\run&escape\sourcecode\src\menu.cpp
+	"menu.h"
+
+1426342518 source:c:\users\raj\desktop\run&escape\sourcecode\src\obstacles.cpp
+	"obstacles.h"
+
+1426302222 source:c:\users\raj\desktop\run&escape\sourcecode\src\sdlgraphics.cpp
+	"SDLGraphics.h"
+
+1426090786 source:c:\users\raj\desktop\run&escape\sourcecode\src\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
